@@ -80,6 +80,8 @@ Estilização com CSS
 
 Interatividade com JavaScript
 
+link do página hospedada no GitHub: https://miguelo1iveira.github.io/Trabalho-de-Fundamentos-de-Software/
+
 👨‍🎓 Autor
 
 Miguel Oliveira
