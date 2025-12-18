@@ -1,33 +1,86 @@
-"# Trabalho-FDS" 
+📘 Trabalho – Fundamentos de Desenvolvimento de Software
 
-"Trabalho de Fundamentos de Desenvolvimento de Software
+Este repositório contém um projeto simples desenvolvido em HTML, CSS e JavaScript, criado como parte da disciplina Fundamentos de Desenvolvimento de Software.
 
-Requisitos :
-  HTML - Criando uma Página Simples
-  Crie um arquivo chamado index.html e escreva o código para exibir uma página
-  simples contendo:
-    1. Um título principal (<h1>) com seu nome.
-    2. Um parágrafo (<p>) apresentando uma breve autobiografia (nome, idade,
-    cidade, interesses etc.).
-    3. Uma lista não ordenada (<ul>) com três hobbies ou atividades favoritas.
-    4. Uma imagem (<img>) que represente um dos hobbies mencionados.
-    5. Uma tabela <table> que contenha o nome e a imagem de três países que
-    gostaria de visitar. (tabela com 3 linhas x 2 colunas)
-    6. Um link (<a>) que leve para um site de interesse do aluno (exemplo: um site
-    de notícias, tecnologia ou entretenimento).
-    
-  CSS - Requisitos de estilização:
-    1. O fundo da página deve ter uma cor suave.
-    2. O título (<h1>) deve ter uma cor diferente e estar centralizado.
-    3. O parágrafo (<p>) deve ter um tamanho de fonte maior e ser justificado.
-    4. A lista (<ul>) deve ter um espaçamento maior entre os itens.
-    5. A imagem (<img>) deve ter bordas arredondadas e um tamanho adequado.
-    6. A tabela(<table>) deve estar estilizada.
-    7. O link (<a>) deve mudar de cor quando o usuário passar o mouse sobre ele.
-    
-  JavaScript – adicionar um botão para interagir com a página
-    • Criar um botão abaixo do parágrafo com o texto "Clique para ver uma
-    mensagem!".
-    • Quando o usuário clicar, uma mensagem (por exemplo uma frase de
-    motivação, saudação, boas vindas, etc.) deverá aparecer abaixo do botão."
+🧩 Descrição do Projeto
 
+O projeto consiste na criação de uma página web simples utilizando HTML para estruturar o conteúdo, CSS para aplicar a estilização e JavaScript para adicionar interatividade à página.
+A página apresenta informações pessoais, hobbies, imagens, uma tabela com países, um link externo e um botão interativo.
+
+🛠️ Tecnologias Utilizadas
+
+HTML5
+CSS3
+JavaScript
+
+📋 Requisitos Atendidos
+🔹 HTML
+
+A página contém:
+
+Um título principal (&lt;h1&gt;) com o nome do aluno
+
+Um parágrafo (&lt;p>) com uma breve autobiografia
+
+Uma lista não ordenada (&lt;ul>) com três hobbies ou atividades favoritas
+
+Uma imagem (&lt;img>) representando um dos hobbies
+
+Uma tabela (&lt;table>) com 3 linhas e 2 colunas contendo:
+
+Nome de três países
+
+Imagem de cada país
+
+Um link (&lt;a>) para um site de interesse do aluno
+
+Um botão (&lt;button>) para interação com o usuário
+
+
+🎨 CSS
+
+A estilização aplicada atende aos seguintes critérios:
+
+Fundo da página com cor suave
+
+Título centralizado e com cor diferente
+
+Parágrafo com tamanho de fonte maior e texto justificado
+
+Espaçamento maior entre os itens da lista
+
+Imagem com bordas arredondadas e tamanho adequado
+
+Tabela estilizada
+
+Link com efeito de mudança de cor ao passar o mouse
+
+⚙️ JavaScript
+
+Foi adicionada interatividade à página por meio de JavaScript:
+
+Um botão localizado abaixo do parágrafo com o texto "Clique para ver uma mensagem!"
+
+Ao clicar no botão, uma mensagem é exibida abaixo dele, podendo ser:
+
+Uma saudação
+
+Uma frase motivacional
+
+Uma mensagem de boas-vindas
+
+
+🎯 Objetivo do Trabalho
+
+Este projeto tem como objetivo aplicar, na prática, os conceitos básicos de:
+
+Estruturação de páginas web com HTML
+
+Estilização com CSS
+
+Interatividade com JavaScript
+
+👨‍🎓 Autor
+
+Miguel Oliveira
+Estudante de Engenharia de Software
