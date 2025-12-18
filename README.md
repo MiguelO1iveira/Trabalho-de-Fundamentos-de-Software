@@ -1,6 +1,6 @@
 "# Trabalho-FDS" 
 
-Trabalho de Fundamentos de Desenvolvimento de Software
+"Trabalho de Fundamentos de Desenvolvimento de Software
 
 Requisitos :
   HTML - Criando uma Página Simples
@@ -29,5 +29,5 @@ Requisitos :
     • Criar um botão abaixo do parágrafo com o texto "Clique para ver uma
     mensagem!".
     • Quando o usuário clicar, uma mensagem (por exemplo uma frase de
-    motivação, saudação, boas vindas, etc.) deverá aparecer abaixo do botão.
+    motivação, saudação, boas vindas, etc.) deverá aparecer abaixo do botão."
 
