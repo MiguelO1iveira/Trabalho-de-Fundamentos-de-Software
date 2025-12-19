@@ -1,6 +1,13 @@
-📘 Trabalho – Fundamentos de Desenvolvimento de Software
+📘 Trabalho Final – Fundamentos de Desenvolvimento de Software
 
 Este repositório contém um projeto simples desenvolvido em HTML, CSS e JavaScript, criado como parte da disciplina Fundamentos de Desenvolvimento de Software.
+
+
+👨‍🎓 Informações do Aluno
+Nome: Miguel José Rodrigues de Oliveira
+Curso: Engenharia de Software
+Ano: 2025
+
 
 🧩 Descrição do Projeto
 
@@ -81,8 +88,3 @@ Estilização com CSS
 Interatividade com JavaScript
 
 link do página hospedada no GitHub: https://miguelo1iveira.github.io/Trabalho-de-Fundamentos-de-Software/
-
-👨‍🎓 Autor
-
-Miguel Oliveira
-Estudante de Engenharia de Software
